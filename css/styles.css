@@ -1,0 +1,49 @@
+
+    .rightside {
+        border-radius: 30pt;
+        background-color: seashell;
+    }
+
+    .leftside {
+        background-color: lavender;
+        border-radius: 30pt;
+
+
+    }
+
+    .belowleftside {
+        margin-top: 25px;
+        border: width 30pt;
+        background-color: lightpink;
+        border-radius: 20pt;
+
+    }
+
+    .link-text {
+        font-size: xx-large;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        border-bottom: solid 1px darkgray;
+
+    }
+
+    .link-text:hover {
+        color: white;
+        background-color: violet;
+    }
+
+    .headings {
+        font-size: 40px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    }
+
+    .external-link-text {
+        font-size: 18pt;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border-left: darkgray solid 1px;
+    }
+
+    .external-link-text:hover {
+        color: white;
+        background-color: violet;
+    }
