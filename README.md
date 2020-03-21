@@ -1,3 +1,5 @@
 # Project 1
 
-### Submitting assignment for week 1
+### Creating my blog with a static site generator
+* Using build.sh bash script
+
